@@ -27,3 +27,18 @@ Ensure data is:
 - Free of orphan records
 - Safe from PII exposure
 - Fully ready for analytical use
+
+---
+
+## 📋 Data Readiness Checklist (Excel Tool)
+
+The framework includes a structured Excel implementation:
+
+➡️ **Download:** [Data_Readiness_Checklist.xlsx](Data_Readiness_Checklist.xlsx)
+
+This checklist enables:
+
+- Structured validation tracking
+- Workday-based due date automation
+- Task grouping and prioritization
+- Audit-ready documentation
